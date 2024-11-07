@@ -1,0 +1,13 @@
+                    CSE 260 - Fall 2020 - Assignment #3
+
+The undersigned declare that the work performed on this assignment was
+their own, and was carried out according to the Academic Integrity
+policies in effect for this course, as stated in
+	https://sites.google.com/eng.ucsd.edu/cse260-winter-2019/academic-integrity
+
+Signed,
+        Jingyu Wu (jiw015@ucsd.edu) [24/06/06]
+        Yaosen Zhang (yaz001@ucsd.edu) [24/06/06]
+------------------------------------------------
+
+

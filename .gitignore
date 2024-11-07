@@ -1,0 +1,13 @@
+# binaries
+*.o
+
+# targets
+apf
+apf.*
+core.*
+
+# expanse scripts
+expanse/*
+
+#output files
+*.out

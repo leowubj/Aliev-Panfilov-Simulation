@@ -1,0 +1,62 @@
+                    CSE 260, Parallel Computation
+                            (FALL 2020)
+           Department of Computer Science and Engineering 	
+                 University of California, San Diego 	
+
+
+               Team Self Evaluation Form, Assignment #3
+
+Each team must submit one copy of this self evaluation form. 
+The members of each team should discuss how they
+worked together and what to write for the evaluation.
+If you worked alone leave column B blank
+
+(1) List the names of your team members:
+
+A: Jingyu Wu
+
+ 
+B: Yaosen Zhang
+
+ 
+ 
+(2) Estimate how much time each team member devoted to this project, in HOURS.
+
+  	                        A 	       B
+meetings 	  	  	        5          5
+coding 	  	  	            10         15
+writeup 	  	  	        15         15
+planning (alone) 	  	  	10         10
+total (including meetings) 	40         45  	  	 
+
+
+(3) Discuss the following.
+(a) If you worked in a team, what were the major responsibilities
+    of each team member?
+
+A focused more on doing tests and debugging the code and writing the report;
+B focused more on developing new optimization ideas and also helped with debugging and writing the report.
+
+(b) Did you complete the assignment?
+
+We complted the assignment.
+
+(c) What were your major strengths and weaknesses in doing this
+    assignment (individually or in a team)?
+    If in a team, also discuss how your team worked together.
+
+A is better at debugging and B is better at developing new features.
+We worked mostly seperately and only meet up when necessary.
+
+(d) What  lessons did you learn from these events.
+
+We learned how to implement MPI and write multi-processor codes
+
+(e) If in a team, whether and how you plan to change the way
+    your work together .
+
+We plan not to change.
+
+(f) Anything else that comes to mind.
+
+
